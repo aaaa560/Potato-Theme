@@ -1,0 +1,22 @@
+id = "potato-theme"
+name = "Potato Theme"
+version = "0.3.0"
+schema_version = 1
+description = "Potato"
+repository = ""
+authors = ["Decaptado"]
+themes = ["themes/potato.json"]
+icon_themes = []
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
