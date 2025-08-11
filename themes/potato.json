@@ -37,8 +37,8 @@
         "terminal.ansi.blue": "#61AFEF",
         "terminal.ansi.bright_cyan": "#56B6C2",
         "terminal.ansi.cyan": "#4EC9B0",
-        "terminal.ansi.bright_green": "#98C379",
-        "terminal.ansi.green": "#8FD19E",
+        "terminal.ansi.bright_green": "#00FF00",
+        "terminal.ansi.green": "#00CC00",
         "terminal.ansi.bright_magenta": "#C678DD",
         "terminal.ansi.magenta": "#B37DD6",
         "terminal.ansi.bright_red": "#A02020",
@@ -54,19 +54,19 @@
             "font_style": "italic"
           },
           "keyword": {
-            "color": "#FF0000",
+            "color": "#CC0000",
             "font_weight": 700
           },
           "keyword.conditional": {
-            "color": "#3F3F3F",
+            "color": "#AA0000",
             "font_weight": 800
           },
           "keyword.control": {
-            "color": "#3F3F3F",
+            "color": "#AA0000",
             "font_weight": 800
           },
           "keyword.repeat": {
-            "color": "#4B4B4B",
+            "color": "#990000",
             "font_weight": 800
           },
           "keyword.function": {
@@ -105,8 +105,12 @@
             "font_weight": 700
           },
           "entity.name.function": {
-            "color": "#61AFEF",
+            "color": "#8B0000",
             "font_weight": 800
+          },
+          "entity.name.namespace": {
+            "color": "#61AFEF",
+            "font_weight": 600
           },
           "type": {
             "color": "#D9B44A"
